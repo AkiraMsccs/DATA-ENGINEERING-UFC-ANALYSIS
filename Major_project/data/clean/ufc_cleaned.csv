@@ -1,0 +1,209 @@
+,ID,Name,Wins,Lose,Draw,Total_Matches,division,country_name,gender,Win_streak,Knock_out,Submission,Decisions,Striking_accuracy,Takedown_accuracy,Age,Knockdown_avg,Average_fight_time,Height_in_inches,Weight_in_pounds,Debut,Year
+0,0,Islam Makhachev,27,1,0,28,Lightweight Division,Russia,men,15,5,13.0,9.0,59.0,54.0,33.0,0.35,10:12,70.0,154.5,"May. 23, 2015",2015
+1,1,Brandon Royval,17,7,0,24,Flyweight Division,United States,men,4,9,10.0,4.0,40.0,75.0,32.0,0.37,12:01,69.0,125.5,"May. 30, 2020",2020
+2,2,Sean O'Malley,18,2,0,20,Bantamweight Division,United States,men,12,9,0.0,5.0,61.0,43.0,30.0,0.77,11:04,71.0,135.0,"Jul. 18, 2017",2012
+3,3,Alexander Volkanovski,26,4,0,30,Featherweight Division,Australia,men,13,3,7.0,9.0,57.0,38.0,36.0,0.36,15:49,66.0,144.5,"Oct. 15, 2016",2012
+4,4,Arman Tsarukyan,22,3,0,25,Lightweight Division,Georgia,men,9,5,8.0,8.0,49.0,37.0,28.0,0.32,12:36,67.0,170.0,"Apr. 20, 2019",2012
+5,5,Leon Edwards,22,4,0,26,Welterweight Division,Jamaica,men,7,3,5.0,12.0,54.0,37.0,33.0,0.24,17:22,72.0,170.0,"Nov. 9, 2014",2012
+6,6,Nassourdine Imavov,16,4,0,20,Middleweight Division,Russia,men,7,4,7.0,5.0,56.0,32.0,29.0,0.19,14:23,75.0,185.0,"Oct. 3, 2020",2012
+7,7,Alex Pereira,12,3,0,15,Light Heavyweight Division,Brazil,men,10,4,0.0,2.0,62.0,50.0,37.0,0.8,11:57,76.0,205.0,"Nov. 6, 2021",2012
+8,8,Tom Aspinall,15,3,0,18,Heavyweight Division,England,men,12,3,14.0,0.0,67.0,100.0,31.0,4.09,02:02,77.0,255.0,"Mar. 21, 2020",2012
+9,9,Valentina Shevchenko,24,4,1,29,Women's Flyweight Division,Kyrgyzstan,women,8,7,6.0,9.0,53.0,64.0,37.0,0.05,18:22,65.0,125.0,"Dec. 19, 2015",2012
+10,10,Yan Xiaonan,19,4,0,23,Women's Strawweight Division,China,women,8,8,0.0,10.0,45.0,73.0,35.0,0.17,15:02,65.0,116.0,"Nov. 25, 2017",2012
+11,11,Alexa Grasso,16,4,1,21,Women's Flyweight Division,Mexico,women,4,2,5.0,10.0,42.0,40.0,31.0,0.07,15:52,65.0,124.0,"Nov. 6, 2016",2012
+12,12,Raquel Pennington,16,10,0,26,Women's Bantamweight Division,United States,women,1,4,0.0,11.0,49.0,28.0,36.0,0.05,15:18,67.0,135.0,"Dec. 1, 2013",2012
+13,13,Jon Jones,28,1,0,29,Heavyweight Division,United States,men,11,7,0.0,10.0,59.0,46.0,37.0,0.25,14:52,76.0,237.6,"Aug. 9, 2008",2012
+14,14,Brandon Moreno,22,8,2,32,Flyweight Division,Mexico,men,5,11,8.0,6.0,44.0,46.0,30.0,0.21,16:40,67.0,135.0,"Oct. 2, 2016",2012
+15,15,Petr Yan,18,5,0,23,Bantamweight Division,Russia,men,7,1,3.0,10.0,54.0,49.0,32.0,0.62,17:17,67.5,135.5,"Jun. 23, 2018",2012
+16,16,Max Holloway,26,8,0,34,Featherweight Division,United States,men,12,2,0.0,11.0,48.0,53.0,32.0,0.34,16:05,71.0,145.0,"Feb. 4, 2012",2012
+17,17,Charles Oliveira,35,10,0,45,Lightweight Division,Brazil,men,10,21,0.0,4.0,55.0,40.0,35.0,0.46,07:38,70.0,155.6,"Aug. 1, 2010",2012
+18,18,Shavkat Rakhmonov,19,0,0,19,Welterweight Division,Uzbekistan,men,8,10,9.0,1.0,60.0,26.0,30.0,0.2,10:44,73.0,171.0,"Mar. 21, 2020",2012
+19,19,Sean Strickland,29,7,0,36,Middleweight Division,United States,men,11,4,9.0,14.0,43.0,64.0,34.0,0.24,16:03,73.0,185.0,"Mar. 15, 2014",2012
+20,20,Jiří Procházka ,31,5,1,37,Light Heavyweight Division,Czechia,men,27,3,23.0,1.0,56.0,60.0,32.0,0.79,10:47,75.0,204.5,"Jul. 11, 2020",2012
+21,21,Ciryl Gane,13,2,0,15,Heavyweight Division,France,men,6,3,3.0,4.0,61.0,25.0,34.0,0.26,14:15,76.0,245.5,"Aug. 10, 2019",2012
+22,22,Zhang Weili,26,3,0,29,Women's Strawweight Division,China,women,11,8,11.0,7.0,54.0,46.0,35.0,0.26,14:31,64.0,115.0,"Aug. 4, 2018",2012
+23,23,Tatiana Suarez,11,1,0,12,Women's Strawweight Division,United States,women,2,6,2.0,3.0,62.0,47.0,34.0,0.0,11:18,65.0,114.5,"Jul. 9, 2016",2012
+24,24,Manon Fiorot,12,1,0,13,Women's Flyweight Division,France,women,6,5,6.0,5.0,53.0,39.0,35.0,0.0,14:57,67.0,124.5,"Jan. 20, 2021",2012
+25,25,Kayla Harrison,18,1,0,19,Women's Bantamweight Division,United States,women,6,7,9.0,5.0,64.0,31.0,34.0,0.0,10:54,68.0,136.0,"Apr. 13, 2024",2012
+26,26,Ilia Topuria,16,0,0,16,Featherweight Division,Germany,men,6,8,9.0,2.0,47.0,61.0,28.0,1.1,10:14,67.0,145.0,"Oct. 10, 2020",2012
+27,27,Amir Albazi,17,2,0,19,Flyweight Division,Iraq,men,5,9,9.0,3.0,35.0,32.0,31.0,0.35,14:25,65.0,125.5,"Jul. 18, 2020",2012
+28,28,Umar Nurmagomedov,18,1,0,19,Bantamweight Division,Russia,men,2,7,5.0,9.0,57.0,40.0,29.0,0.16,13:48,68.0,135.0,"Jan. 20, 2021",2012
+29,29,Diego Lopes,26,6,0,32,Featherweight Division,Brazil,men,10,12,15.0,4.0,54.0,40.0,30.0,0.75,08:33,71.0,145.0,"May. 6, 2023",2023
+30,30,Justin Gaethje,27,5,0,32,Lightweight Division,United States,men,20,9,0.0,6.0,59.0,14.0,36.0,0.67,11:14,71.0,156.0,"Jul. 8, 2017",2012
+31,31,Kamaru Usman,20,4,0,24,Middleweight Division,Nigeria,men,9,1,3.0,10.0,52.0,45.0,37.0,0.48,17:27,72.0,184.5,"Jul. 12, 2015",2012
+32,32,Khamzat Chimaev,14,0,0,14,Middleweight Division,Nigeria,men,6,6,9.0,2.0,59.0,47.0,,0.62,06:05,,,,2012
+33,33,Jan Błachowicz,29,10,1,40,Light Heavyweight Division,Poland,men,9,9,7.0,11.0,50.0,50.0,42.0,0.34,13:06,74.0,205.0,"Oct. 4, 2014",2012
+34,34,Alexander Volkov,38,11,0,49,Heavyweight Division,Russia,men,24,4,17.0,10.0,57.0,67.0,36.0,0.24,12:57,79.0,254.5,"Nov. 19, 2016",2012
+35,35,Alexa Grasso,16,4,1,21,Women's Flyweight Division,Mexico,women,4,2,5.0,10.0,42.0,40.0,31.0,0.07,15:52,65.0,124.0,"Nov. 6, 2016",2012
+36,36,Virna Jandiroba,21,3,0,24,Women's Strawweight Division,Brazil,women,1,14,8.0,5.0,38.0,35.0,36.0,0.13,11:47,63.0,115.5,"Apr. 27, 2019",2012
+37,37,Erin Blanchfield,13,2,0,15,Women's Flyweight Division,United States,women,2,4,3.0,7.0,44.0,32.0,25.0,0.0,14:07,64.0,125.5,"Sep. 18, 2021",2012
+38,38,Ketlen Vieira,14,4,0,18,Women's Bantamweight Division,Brazil,women,2,4,3.0,8.0,41.0,45.0,33.0,0.0,15:21,68.0,136.0,"Oct. 2, 2016",2012
+39,39,Ilia Topuria,16,0,0,16,Featherweight Division,Germany,men,6,8,9.0,2.0,47.0,61.0,28.0,1.1,10:14,67.0,145.0,"Oct. 10, 2020",2012
+40,40,Amir Albazi,17,2,0,19,Flyweight Division,Iraq,men,5,9,9.0,3.0,35.0,32.0,31.0,0.35,14:25,65.0,125.5,"Jul. 18, 2020",2012
+41,41,Umar Nurmagomedov,18,1,0,19,Bantamweight Division,Russia,men,2,7,5.0,9.0,57.0,40.0,29.0,0.16,13:48,68.0,135.0,"Jan. 20, 2021",2012
+42,42,Diego Lopes,26,6,0,32,Featherweight Division,Brazil,men,10,12,15.0,4.0,54.0,40.0,30.0,0.75,08:33,71.0,145.0,"May. 6, 2023",2023
+43,43,Justin Gaethje,27,5,0,32,Lightweight Division,United States,men,20,9,0.0,6.0,59.0,14.0,36.0,0.67,11:14,71.0,156.0,"Jul. 8, 2017",2012
+44,44,Kamaru Usman,20,4,0,24,Middleweight Division,Nigeria,men,9,1,3.0,10.0,52.0,45.0,37.0,0.48,17:27,72.0,184.5,"Jul. 12, 2015",2012
+45,45,Khamzat Chimaev,14,0,0,14,Middleweight Division,Nigeria,men,6,6,9.0,2.0,59.0,47.0,,0.62,06:05,,,,2012
+46,46,Jan Błachowicz,29,10,1,40,Light Heavyweight Division,Poland,men,9,9,7.0,11.0,50.0,50.0,42.0,0.34,13:06,74.0,205.0,"Oct. 4, 2014",2012
+47,47,Alexander Volkov,38,11,0,49,Heavyweight Division,Russia,men,24,4,17.0,10.0,57.0,67.0,36.0,0.24,12:57,79.0,254.5,"Nov. 19, 2016",2012
+48,48,Alexa Grasso,16,4,1,21,Women's Flyweight Division,Mexico,women,4,2,5.0,10.0,42.0,40.0,31.0,0.07,15:52,65.0,124.0,"Nov. 6, 2016",2012
+49,49,Virna Jandiroba,21,3,0,24,Women's Strawweight Division,Brazil,women,1,14,8.0,5.0,38.0,35.0,36.0,0.13,11:47,63.0,115.5,"Apr. 27, 2019",2012
+50,50,Erin Blanchfield,13,2,0,15,Women's Flyweight Division,United States,women,2,4,3.0,7.0,44.0,32.0,25.0,0.0,14:07,64.0,125.5,"Sep. 18, 2021",2012
+51,51,Ketlen Vieira,14,4,0,18,Women's Bantamweight Division,Brazil,women,2,4,3.0,8.0,41.0,45.0,33.0,0.0,15:21,68.0,136.0,"Oct. 2, 2016",2012
+52,52,Merab Dvalishvili,19,4,0,23,Bantamweight Division,Georgia,men,12,3,1.0,15.0,42.0,35.0,34.0,0.06,16:45,66.0,134.0,"Dec. 9, 2017",2012
+53,53,Kai Kara-France,25,11,0,36,Flyweight Division,New Zealand,men,12,3,13.0,10.0,40.0,33.0,31.0,0.81,12:19,64.0,125.0,"Dec. 2, 2018",2012
+54,54,Cory Sandhagen,17,5,0,22,Bantamweight Division,United States,men,7,3,6.0,7.0,44.0,32.0,32.0,0.3,14:23,71.0,136.0,"Jan. 28, 2018",2012
+55,55,Movsar Evloev,19,0,0,19,Featherweight Division,Russia,men,3,4,2.0,12.0,48.0,48.0,31.0,0.0,15:00,67.0,145.5,"Apr. 20, 2019",2012
+56,56,Dustin Poirier,30,9,0,39,Lightweight Division,United States,men,16,7,13.0,7.0,51.0,36.0,36.0,0.62,10:17,69.0,155.0,"Jan. 2, 2011",2012
+57,57,Jack Della Maddalena,17,2,0,19,Welterweight Division,Australia,men,12,2,8.0,0.0,,,28.0,,,71.0,170.0,"Jan. 22, 2022",2012
+58,58,Israel Adesanya,24,5,0,29,Middleweight Division,Nigeria,men,16,6,0.0,8.0,48.0,11.0,35.0,0.62,17:35,76.0,185.0,"Feb. 11, 2018",2012
+59,59,Jamahal Hill,12,3,0,15,Light Heavyweight Division,United States,men,7,4,0.0,0.0,53.0,,33.0,,,76.0,205.5,"Jan. 25, 2020",2012
+60,60,Sergei Pavlovich,19,3,0,22,Heavyweight Division,Russia,men,15,15,0.0,4.0,44.0,40.0,32.0,2.2,04:47,75.0,249.0,"Nov. 24, 2018",2012
+61,61,Julianna Peña,13,5,0,18,Women's Bantamweight Division,United States,women,3,6,4.0,4.0,45.0,56.0,35.0,0.0,13:32,66.0,134.5,"Dec. 1, 2013",2012
+62,62,Jéssica Andrade ,26,13,0,39,Women's Flyweight Division,Brazil,women,10,8,11.0,8.0,50.0,55.0,33.0,0.39,09:36,61.5,124.5,"Jul. 27, 2013",2012
+63,63,Maycee Barber,14,2,0,16,Women's Flyweight Division,United States,women,6,6,2.0,5.0,53.0,44.0,26.0,0.0,12:10,65.0,125.0,"Nov. 10, 2018",2012
+64,64,Norma Dumont,12,2,0,14,Women's Bantamweight Division,Brazil,women,2,2,0.0,10.0,50.0,57.0,,0.2,14:51,67.0,38.5,,2012
+65,65,Dricus Du Plessis,23,2,0,25,Middleweight Division,South Africa,men,11,9,11.0,3.0,49.0,50.0,31.0,0.48,13:45,73.0,185.0,"Oct. 10, 2020",2012
+66,66,Tatsuro Taira,16,1,0,17,Flyweight Division,Japan,men,5,7,8.0,4.0,60.0,44.0,,0.36,11:48,70.0,38.0,,2012
+67,67,Deiveson Figueiredo,24,4,1,29,Bantamweight Division,Brazil,men,9,9,11.0,6.0,54.0,35.0,37.0,0.78,12:50,65.0,135.0,"Jun. 3, 2017",2012
+68,68,Yair Rodriguez,16,5,0,21,Featherweight Division,Mexico,men,6,4,5.0,6.0,46.0,27.0,32.0,0.31,13:07,71.0,146.0,"Nov. 15, 2014",2012
+69,69,Max Holloway,26,8,0,34,Featherweight Division,United States,men,12,2,0.0,11.0,48.0,53.0,32.0,0.34,16:05,71.0,145.0,"Feb. 4, 2012",2012
+70,70,Sean Brady,17,1,0,18,Welterweight Division,United States,men,3,5,3.0,9.0,55.0,52.0,32.0,0.13,13:58,70.0,171.0,"Oct. 18, 2019",2012
+71,71,Robert Whittaker,27,8,0,35,Middleweight Division,Australia,men,11,5,7.0,11.0,43.0,38.0,34.0,0.55,13:07,72.0,185.5,"Dec. 16, 2012",2012
+72,72,Aleksandar Rakić,14,5,0,19,Light Heavyweight Division,Austria,men,9,1,8.0,4.0,50.0,24.0,33.0,0.52,11:26,76.0,206.0,"Sep. 2, 2017",2012
+73,73,Curtis Blaydes,18,5,0,23,Heavyweight Division,United States,men,13,3,0.0,5.0,50.0,53.0,34.0,0.18,08:36,76.0,262.0,"Apr. 10, 2016",2012
+74,74,Manon Fiorot,12,1,0,13,Women's Flyweight Division,France,women,6,5,6.0,5.0,53.0,39.0,35.0,0.0,14:57,67.0,124.5,"Jan. 20, 2021",2012
+75,75,Amanda Lemos,15,4,1,20,Women's Strawweight Division,Brazil,women,8,3,8.0,4.0,54.0,63.0,37.0,0.68,10:07,64.0,116.0,"Jul. 16, 2017",2012
+76,76,Natalia Silva,18,5,1,24,Women's Flyweight Division,Brazil,women,12,5,7.0,6.0,48.0,25.0,28.0,0.4,12:24,64.0,125.5,"Jun. 18, 2022",2012
+77,77,Macy Chiasson,11,3,0,14,Women's Bantamweight Division,United States,women,3,3,3.0,4.0,46.0,39.0,33.0,0.28,09:47,71.0,135.5,"Nov. 30, 2018",2012
+78,78,Magomed Ankalaev,21,1,1,23,Light Heavyweight Division,Russia,men,11,6,0.0,10.0,53.0,23.0,32.0,0.56,12:31,75.0,205.0,"Mar. 17, 2018",2012
+79,79,Manel Kape,21,7,0,28,Flyweight Division,Angola,men,13,5,9.0,3.0,56.0,30.0,31.0,0.83,12:00,65.0,126.0,"Feb. 6, 2021",2012
+80,80,Song Yadong,22,8,1,31,Bantamweight Division,China,men,9,3,7.0,10.0,44.0,38.0,27.0,0.54,13:05,68.0,136.0,"Nov. 25, 2017",2012
+81,81,Brian Ortega,16,4,0,20,Featherweight Division,United States,men,3,8,4.0,5.0,38.0,26.0,34.0,0.45,12:57,68.0,146.0,"Jul. 26, 2014",2012
+82,82,Dan Hooker,24,12,0,36,Lightweight Division,New Zealand,men,11,7,12.0,6.0,49.0,34.0,35.0,0.6,10:13,72.0,155.5,"Jun. 28, 2014",2012
+83,83,Joaquin Buckley,21,6,0,27,Welterweight Division,United States,men,6,15,4.0,6.0,37.0,45.0,30.0,0.84,10:39,70.0,171.0,"Aug. 8, 2020",2012
+84,84,Caio Borralho,17,1,0,18,Middleweight Division,Brazil,men,14,5,4.0,8.0,60.0,60.0,32.0,0.52,12:51,73.5,186.0,"Apr. 16, 2022",2012
+85,85,Carlos Ulberg,12,1,0,13,Light Heavyweight Division,New Zealand,men,7,2,6.0,3.0,57.0,75.0,34.0,1.44,06:57,76.0,205.5,"Mar. 6, 2021",2012
+86,86,Jailton Almeida,22,3,0,25,Heavyweight Division,Brazil,men,8,13,16.0,1.0,66.0,60.0,33.0,0.0,06:50,75.0,235.0,"Nov. 13, 2021",2012
+87,87,Erin Blanchfield,13,2,0,15,Women's Flyweight Division,United States,women,2,4,3.0,7.0,44.0,32.0,25.0,0.0,14:07,64.0,125.5,"Sep. 18, 2021",2012
+88,88,Mackenzie Dern,15,5,0,20,Women's Strawweight Division,United States,women,8,6,0.0,7.0,40.0,18.0,31.0,0.15,13:27,64.0,116.0,"Mar. 3, 2018",2012
+89,89,Rose Namajunas,14,7,0,21,Women's Flyweight Division,United States,women,2,6,5.0,6.0,42.0,51.0,32.0,0.28,15:41,65.0,125.0,"Dec. 12, 2014",2012
+90,90,Irene Aldana,15,8,0,23,Women's Bantamweight Division,Mexico,women,8,3,9.0,4.0,40.0,50.0,36.0,0.22,14:39,69.0,136.0,"Dec. 18, 2016",2012
+91,91,Belal Muhammad,24,3,0,27,Welterweight Division,United States,men,5,1,0.0,18.0,44.0,39.0,36.0,0.0,14:53,71.0,169.0,"Jul. 7, 2016",2012
+92,92,Alex Perez,25,9,0,34,Flyweight Division,United States,men,6,7,10.0,12.0,46.0,46.0,32.0,0.68,06:47,66.0,126.0,"Aug. 8, 2017",2012
+93,93,Marlon Vera,23,10,1,34,Bantamweight Division,Ecuador,men,8,10,8.0,5.0,49.0,39.0,32.0,0.56,13:29,68.0,136.0,"Nov. 15, 2014",2012
+94,94,Arnold Allen,20,3,0,23,Featherweight Division,England,men,7,4,1.0,9.0,42.0,48.0,31.0,0.25,13:37,68.0,145.0,"Jun. 20, 2015",2012
+95,95,Michael Chandler,23,9,0,32,Lightweight Division,United States,men,11,7,13.0,5.0,50.0,37.0,38.0,0.48,09:18,68.0,155.6,"Jan. 23, 2021",2012
+96,96,Ian Machado Garry,15,1,0,16,Welterweight Division,Ireland,men,7,1,4.0,7.0,55.0,55.0,27.0,0.49,13:35,75.0,171.0,"Nov. 6, 2021",2012
+97,97,Jared Cannonier,18,8,0,26,Middleweight Division,United States,men,11,2,7.0,5.0,50.0,44.0,40.0,0.4,13:51,71.0,185.5,"Jan. 3, 2015",2012
+98,98,Khalil Rountree Jr.,14,6,0,20,Light Heavyweight Division,United States,men,10,7,0.0,0.0,38.0,,35.0,,,73.0,205.0,"Jul. 9, 2016",2012
+99,99,Serghei Spivac,17,5,0,22,Heavyweight Division,Moldova,men,7,8,11.0,2.0,50.0,66.0,29.0,0.0,07:21,75.0,260.0,"May. 4, 2019",2019
+100,100,Kayla Harrison,18,1,0,19,Women's Bantamweight Division,United States,women,6,7,9.0,5.0,64.0,31.0,34.0,0.0,10:54,68.0,136.0,"Apr. 13, 2024",2012
+101,101,Amanda Ribas,12,6,0,18,Women's Strawweight Division,Brazil,women,4,4,5.0,5.0,40.0,54.0,31.0,0.1,12:45,64.0,116.0,"Jun. 29, 2019",2012
+102,102,Jéssica Andrade ,26,13,0,39,Women's Flyweight Division,Brazil,women,10,8,11.0,8.0,50.0,55.0,33.0,0.39,09:36,61.5,124.5,"Jul. 27, 2013",2012
+103,103,Mayra Bueno Silva,10,5,1,16,Women's Flyweight Division,Brazil,women,1,7,7.0,2.0,59.0,29.0,33.0,0.0,10:10,66.0,126.0,"Sep. 23, 2018",2012
+104,104,Alex Pereira,12,3,0,15,Light Heavyweight Division,Brazil,men,10,4,0.0,2.0,62.0,50.0,37.0,0.8,11:57,76.0,205.0,"Nov. 6, 2021",2012
+105,105,Steve Erceg,12,3,0,15,Flyweight Division,Australia,men,1,6,5.0,4.0,49.0,26.0,29.0,0.23,12:54,68.0,125.5,"May. 20, 2023",2023
+106,106,Rob Font,22,8,0,30,Bantamweight Division,United States,men,9,4,9.0,9.0,46.0,34.0,37.0,0.42,13:03,68.0,138.0,"Jul. 5, 2014",2012
+107,107,Josh Emmett,19,4,0,23,Featherweight Division,United States,men,7,2,7.0,10.0,36.0,38.0,40.0,0.99,12:56,66.5,146.0,"May. 8, 2016",2016
+108,108,Mateusz Gamrot,24,3,0,27,Lightweight Division,Poland,men,8,5,3.0,11.0,51.0,35.0,34.0,0.12,12:18,70.0,156.0,"Oct. 17, 2020",2012
+109,109,Gilbert Burns,22,8,0,30,Welterweight Division,Brazil,men,6,9,11.0,7.0,49.0,38.0,38.0,0.2,12:44,70.0,171.0,"Jul. 26, 2014",2012
+110,110,Marvin Vettori,19,8,1,28,Middleweight Division,Italy,men,2,9,11.0,7.0,46.0,45.0,31.0,0.06,16:55,72.0,186.0,"Aug. 21, 2016",2012
+111,111,Nikita Krylov,30,9,0,39,Light Heavyweight Division,Russia,men,12,16,23.0,2.0,56.0,38.0,,0.6,06:56,77.5,44.5,,2012
+112,112,Marcin Tybura,26,9,0,35,Heavyweight Division,Poland,men,10,7,11.0,9.0,49.0,33.0,39.0,0.06,11:04,75.0,251.0,"Apr. 10, 2016",2012
+113,113,Raquel Pennington,16,10,0,26,Women's Bantamweight Division,United States,women,1,4,0.0,11.0,49.0,28.0,36.0,0.05,15:18,67.0,135.0,"Dec. 1, 2013",2012
+114,114,Iasmin Lucindo,17,6,0,23,Women's Strawweight Division,Brazil,women,8,3,3.0,6.0,45.0,60.0,23.0,0.0,13:57,63.0,115.5,"Aug. 13, 2022",2012
+115,115,Viviane Araújo,13,6,0,19,Women's Flyweight Division,Brazil,women,3,4,4.0,6.0,48.0,43.0,38.0,0.08,15:29,64.0,125.6,"May. 11, 2019",2019
+116,116,Ailin Perez,12,2,0,14,Women's Bantamweight Division,Argentina,women,4,2,4.0,6.0,55.0,47.0,30.0,0.2,12:18,65.0,135.0,"Sep. 3, 2022",2012
+117,117,Alexandre Pantoja,29,5,0,34,Flyweight Division,Brazil,men,8,11,11.0,10.0,50.0,47.0,34.0,0.3,12:39,65.0,124.5,"Jan. 29, 2017",2012
+118,118,Asu Almabayev ,21,3,0,24,Flyweight Division,Kazakhstan,men,3,9,4.0,9.0,54.0,43.0,31.0,0.23,13:05,64.0,126.0,"Aug. 5, 2023",2012
+119,119,Henry Cejudo,16,5,0,21,Bantamweight Division,United States,men,8,5,0.0,8.0,47.0,31.0,38.0,0.37,13:34,64.0,135.0,"Dec. 13, 2014",2012
+120,120,Aljamain Sterling,24,5,0,29,Featherweight Division,United States,men,3,8,4.0,13.0,52.0,30.0,35.0,0.0,13:22,67.0,145.5,"Feb. 22, 2014",2012
+121,121,Beneil Dariush,22,6,1,29,Lightweight Division,Iran,men,5,8,8.0,9.0,49.0,34.0,35.0,0.51,08:54,70.0,167.0,"Jan. 15, 2014",2012
+122,122,Colby Covington,17,5,0,22,Welterweight Division,United States,men,4,4,3.0,9.0,38.0,43.0,37.0,0.05,16:57,71.0,171.0,"Aug. 23, 2014",2012
+123,123,Anthony Hernandez,14,2,0,16,Middleweight Division,United States,men,3,8,5.0,3.0,64.0,45.0,31.0,0.14,09:47,72.0,186.0,"Feb. 2, 2019",2012
+124,124,Volkan Oezdemir,20,8,0,28,Light Heavyweight Division,Switzerland,men,13,2,14.0,5.0,49.0,29.0,35.0,0.6,09:57,74.0,206.0,"Feb. 5, 2017",2012
+125,125,Derrick Lewis,28,12,0,40,Heavyweight Division,United States,men,23,9,0.0,4.0,51.0,26.0,40.0,0.57,09:09,75.0,266.0,"Apr. 19, 2014",2012
+126,126,Rose Namajunas,14,7,0,21,Women's Flyweight Division,United States,women,2,6,5.0,6.0,42.0,51.0,32.0,0.28,15:41,65.0,125.0,"Dec. 12, 2014",2012
+127,127,Marina Rodriguez,17,5,2,24,Women's Strawweight Division,Brazil,women,6,1,4.0,9.0,47.0,50.0,37.0,0.14,14:10,66.0,115.5,"Sep. 23, 2018",2012
+128,128,Jasmine Jasudavicius,13,3,0,16,Women's Flyweight Division,Canada,women,2,3,2.0,8.0,46.0,45.0,36.0,0.1,14:41,67.0,125.0,"Jan. 22, 2022",2012
+129,129,Karol Rosa,18,7,0,25,Women's Bantamweight Division,Brazil,women,4,2,1.0,12.0,56.0,46.0,30.0,0.18,15:00,65.0,135.5,"Aug. 31, 2019",2012
+130,130,Tom Aspinall,15,3,0,18,Heavyweight Division,England,men,12,3,14.0,0.0,67.0,100.0,31.0,4.09,02:02,77.0,255.0,"Mar. 21, 2020",2012
+131,131,Tim Elliott,21,13,1,35,Bantamweight Division,United States,men,3,7,6.0,11.0,45.0,47.0,38.0,0.12,12:15,67.0,136.0,"May. 5, 2012",2012
+132,132,Mario Bautista,15,2,0,17,Bantamweight Division,United States,men,3,6,5.0,6.0,47.0,33.0,31.0,0.15,09:14,69.0,136.0,"Jan. 19, 2019",2012
+133,133,Lerone Murphy,15,0,1,16,Featherweight Division,England,men,7,6,0.0,8.0,54.0,54.0,33.0,0.27,13:42,69.0,145.5,"Sep. 7, 2019",2012
+134,134,Renato Moicano,20,6,1,27,Lightweight Division,Brazil,men,2,10,4.0,8.0,49.0,44.0,35.0,0.09,09:09,71.0,155.0,"Dec. 20, 2014",2012
+135,135,Geoff Neal,16,6,0,22,Welterweight Division,United States,men,10,2,7.0,4.0,51.0,50.0,34.0,1.01,10:14,71.0,171.0,"Feb. 18, 2018",2012
+136,136,Brendan Allen,24,7,0,31,Middleweight Division,United States,men,5,14,11.0,5.0,54.0,38.0,29.0,0.34,10:22,74.0,186.0,"Oct. 18, 2019",2012
+137,137,Johnny Walker,21,9,0,30,Light Heavyweight Division,Brazil,men,16,3,17.0,2.0,53.0,100.0,32.0,0.6,06:43,78.0,206.0,"Nov. 17, 2018",2012
+138,138,Tai Tuivasa,15,8,0,23,Heavyweight Division,Australia,men,14,12,0.0,1.0,47.0,0.0,31.0,1.04,07:14,74.0,265.0,"Nov. 18, 2017",2012
+139,139,Yan Xiaonan,19,4,0,23,Women's Strawweight Division,China,women,8,8,0.0,10.0,45.0,73.0,35.0,0.17,15:02,65.0,116.0,"Nov. 25, 2017",2012
+140,140,Tabatha Ricci,11,3,0,14,Women's Strawweight Division,Brazil,women,1,3,2.0,7.0,36.0,38.0,30.0,0.0,13:22,61.0,115.5,"Jun. 5, 2021",2012
+141,141,Tracy Cortez,11,2,0,13,Women's Flyweight Division,United States,women,1,1,0.0,9.0,48.0,46.0,31.0,0.0,16:26,65.0,126.0,"Nov. 16, 2019",2012
+142,142,Yana Santos,15,8,0,23,Women's Bantamweight Division,Russia,women,7,1,7.0,6.0,59.0,53.0,35.0,0.12,12:21,66.0,135.5,"Mar. 3, 2018",2012
+143,143,Alexander Volkanovski,26,4,0,30,Featherweight Division,Australia,men,13,3,7.0,9.0,57.0,38.0,36.0,0.36,15:49,66.0,144.5,"Oct. 15, 2016",2012
+144,144,Tagir Ulanbekov,16,2,0,18,Flyweight Division,Russia,men,1,7,3.0,7.0,47.0,47.0,33.0,0.21,11:56,67.0,125.5,"Oct. 10, 2020",2012
+145,145,José Aldo,32,9,0,41,Bantamweight Division,Brazil,men,17,1,12.0,14.0,47.0,54.0,38.0,0.39,14:15,67.0,136.0,"Apr. 30, 2011",2012
+146,146,Giga Chikadze,15,4,0,19,Featherweight Division,Georgia,men,9,1,9.0,5.0,42.0,33.0,36.0,0.62,13:15,72.0,146.0,"Sep. 28, 2019",2012
+147,147,Rafael Fiziev,12,4,0,16,Lightweight Division,Kyrgyzstan,men,8,1,6.0,3.0,52.0,57.0,32.0,0.25,12:01,68.0,156.0,"Apr. 20, 2019",2012
+148,148,Stephen Thompson,17,8,1,26,Welterweight Division,United States,men,8,1,5.0,8.0,46.0,42.0,42.0,0.49,14:30,72.0,171.0,"Feb. 4, 2012",2012
+149,149,Paulo Costa,14,4,0,18,Middleweight Division,Brazil,men,11,1,9.0,1.0,58.0,75.0,33.0,0.48,12:32,73.0,185.0,"Mar. 12, 2017",2012
+150,150,Dominick Reyes,14,4,0,18,Light Heavyweight Division,United States,men,9,2,10.0,3.0,54.0,29.0,35.0,0.94,08:00,76.0,205.0,"Jun. 26, 2017",2012
+151,151,Shamil Gaziev,14,1,0,15,Heavyweight Division,Russia,men,9,3,9.0,2.0,48.0,30.0,35.0,0.64,09:21,76.0,260.0,"Dec. 16, 2023",2012
+152,152,Tatiana Suarez,11,1,0,12,Women's Strawweight Division,United States,women,2,6,2.0,3.0,62.0,47.0,34.0,0.0,11:18,65.0,114.5,"Jul. 9, 2016",2012
+153,153,Loopy Godinez,12,5,0,17,Women's Strawweight Division,Mexico,women,1,2,2.0,9.0,48.0,48.0,,0.09,13:34,61.0,35.0,,2012
+154,154,Karine Silva,18,5,0,23,Women's Flyweight Division,Brazil,women,9,8,13.0,1.0,39.0,50.0,31.0,0.31,08:04,65.0,125.8,"Jun. 4, 2022",2012
+155,155,Miesha Tate,20,9,0,29,Women's Bantamweight Division,United States,women,4,8,0.0,8.0,45.0,32.0,38.0,0.06,12:43,66.0,135.5,"Aug. 19, 2012",2012
+156,156,Leon Edwards,22,4,0,26,Welterweight Division,Jamaica,men,7,3,5.0,12.0,54.0,37.0,33.0,0.24,17:22,72.0,170.0,"Nov. 9, 2014",2012
+157,157,Bruno Silva,14,6,2,22,Flyweight Division,Brazil,men,6,4,4.0,4.0,49.0,25.0,34.0,1.15,09:47,64.0,126.0,"Sep. 7, 2019",2012
+158,158,Kyler Phillips,12,3,0,15,Bantamweight Division,United States,men,5,2,5.0,5.0,44.0,51.0,,0.42,12:02,72.0,38.0,,2012
+159,159,Youssef Zalal,17,5,1,23,Featherweight Division,Morocco,men,4,9,6.0,4.0,51.0,31.0,28.0,0.22,12:26,70.0,146.0,"Feb. 8, 2020",2012
+160,160,Paddy Pimblett,22,3,0,25,Lightweight Division,England,men,8,6,10.0,6.0,53.0,25.0,30.0,0.61,08:14,70.0,156.0,"Sep. 4, 2021",2012
+161,161,Michael Morales,17,0,0,17,Welterweight Division,Ecuador,men,17,12,8.0,4.0,48.0,42.0,25.0,0.92,10:49,72.0,171.0,"Jan. 22, 2022",2012
+162,162,Roman Dolidze,15,3,0,18,Middleweight Division,Georgia,men,8,3,8.0,4.0,43.0,42.0,36.0,0.49,11:15,74.0,186.0,"Jul. 18, 2020",2012
+163,163,Azamat Murzakanov,14,0,0,14,Light Heavyweight Division,Russia,men,10,8,0.0,3.0,56.0,15.0,35.0,1.55,09:40,70.0,205.0,"Nov. 20, 2021",2012
+164,164,Waldo Cortes Acosta,13,1,0,14,Heavyweight Division,Dominican Republic,men,6,1,3.0,6.0,48.0,60.0,33.0,0.37,11:40,76.0,261.5,"Oct. 29, 2022",2012
+165,165,Virna Jandiroba,21,3,0,24,Women's Strawweight Division,Brazil,women,1,14,8.0,5.0,38.0,35.0,36.0,0.13,11:47,63.0,115.5,"Apr. 27, 2019",2012
+166,166,Gillian Robertson,15,8,0,23,Women's Strawweight Division,Canada,women,2,9,3.0,4.0,49.0,40.0,29.0,0.0,10:15,65.0,116.0,"Dec. 1, 2017",2012
+167,167,Miranda Maverick,17,5,0,22,Women's Flyweight Division,United States,women,1,8,6.0,8.0,45.0,42.0,27.0,0.0,13:08,63.5,126.0,"Jun. 27, 2020",2012
+168,168,Jacqueline Cavalcanti,9,1,0,10,Women's Bantamweight Division,Brazil,women,7,3,2.0,6.0,46.0,0.0,27.0,0.0,15:00,68.0,134.5,"Sep. 2, 2023",2012
+169,169,Max Holloway,26,8,0,34,Featherweight Division,United States,men,12,2,0.0,11.0,48.0,53.0,32.0,0.34,16:05,71.0,145.0,"Feb. 4, 2012",2012
+170,170,Ramazan Temirov,19,3,0,22,Flyweight Division,Uzbekistan,men,11,1,10.0,7.0,40.0,50.0,28.0,2.52,08:55,64.0,125.5,"Oct. 12, 2024",2012
+171,171,Marcus McGhee,10,1,0,11,Bantamweight Division,United States,men,6,8,1.0,1.0,48.0,33.0,34.0,1.37,08:13,68.0,135.6,"Apr. 29, 2023",2012
+172,172,Bryce Mitchell,17,3,0,20,Featherweight Division,United States,men,9,8,0.0,7.0,60.0,43.0,30.0,0.13,11:31,70.0,146.0,"Jul. 6, 2018",2012
+173,173,Benoît Saint Denis ,13,3,0,16,Lightweight Division,France,men,4,9,7.0,0.0,53.0,37.0,29.0,0.99,07:33,71.0,156.0,"Oct. 30, 2021",2012
+174,174,Carlos Prates,21,6,0,27,Welterweight Division,Brazil,men,11,16,9.0,2.0,57.0,100.0,31.0,3.54,06:47,73.0,170.5,"Feb. 10, 2024",2012
+175,175,Reinier de Ridder,19,2,0,21,Middleweight Division,Netherlands,men,4,13,11.0,2.0,57.0,47.0,34.0,0.98,07:38,76.0,184.5,"Nov. 9, 2024",2012
+176,176,Bogdan Guskov,17,3,0,20,Light Heavyweight Division,Uzbekistan,men,14,3,12.0,0.0,51.0,,32.0,,,75.0,205.5,"Sep. 2, 2023",2012
+177,177,Mick Parkin,10,0,0,10,Heavyweight Division,England,men,5,1,5.0,3.0,53.0,42.0,29.0,0.3,10:04,76.0,265.0,"Jul. 22, 2023",2012
+178,178,Natalia Silva,18,5,1,24,Women's Flyweight Division,Brazil,women,12,5,7.0,6.0,48.0,25.0,28.0,0.4,12:24,64.0,125.5,"Jun. 18, 2022",2012
+179,179,Angela Hill,18,14,0,32,Women's Strawweight Division,United States,women,5,12,1.0,12.0,50.0,33.0,40.0,0.12,14:22,63.0,115.5,"Dec. 12, 2014",2012
+180,180,Ariane da Silva ,17,10,0,27,Women's Flyweight Division,Brazil,women,6,4,7.0,7.0,42.0,56.0,31.0,0.31,11:11,66.0,125.0,"Jan. 19, 2019",2012
+181,181,Nora Cornolle,8,2,0,10,Women's Bantamweight Division,France,women,6,1,4.0,1.0,54.0,11.0,35.0,0.39,12:42,67.0,136.0,"Sep. 2, 2023",2012
+182,182,Sean O'Malley,18,2,0,20,Bantamweight Division,United States,men,12,9,0.0,5.0,61.0,43.0,30.0,0.77,11:04,71.0,135.0,"Jul. 18, 2017",2012
+183,183,Kai Asakura,21,5,0,26,Flyweight Division,Japan,men,13,3,12.0,0.0,59.0,,31.0,,,68.0,124.5,"Dec. 7, 2024",2012
+184,184,Aiemann Zahabi,12,2,0,14,Bantamweight Division,Canada,men,6,2,8.0,4.0,46.0,14.0,37.0,0.49,11:23,68.0,135.5,"Feb. 20, 2017",2012
+185,185,Calvin Kattar,23,9,0,32,Featherweight Division,United States,men,11,2,10.0,10.0,39.0,29.0,36.0,0.36,14:46,71.0,146.0,"Jul. 29, 2017",2012
+186,186,Grant Dawson,23,2,1,26,Lightweight Division,United States,men,5,13,7.0,5.0,53.0,41.0,31.0,0.09,11:21,70.0,156.0,"Aug. 15, 2017",2012
+187,187,Vicente Luque,23,10,1,34,Welterweight Division,United States,men,11,9,14.0,3.0,52.0,54.0,33.0,0.71,09:37,71.0,170.5,"Jul. 12, 2015",2012
+188,188,Michel Pereira,31,12,0,43,Middleweight Division,Brazil,men,11,9,15.0,10.0,54.0,52.0,31.0,0.35,10:50,73.0,185.5,"May. 18, 2019",2019
+189,189,Alonzo Menifield,16,5,1,22,Light Heavyweight Division,United States,men,10,3,10.0,3.0,55.0,31.0,37.0,0.67,07:30,72.0,205.0,"Jan. 19, 2019",2012
+190,190,Tallison Teixeira,8,0,0,8,Heavyweight Division,Brazil,men,7,1,8.0,0.0,60.0,0.0,25.0,11.84,01:16,79.0,263.0,"Feb. 8, 2025",2012
+191,191,Jéssica Andrade ,26,13,0,39,Women's Flyweight Division,Brazil,women,10,8,11.0,8.0,50.0,55.0,33.0,0.39,09:36,61.5,124.5,"Jul. 27, 2013",2012
+192,192,Luana Pinheiro,11,4,0,15,Women's Strawweight Division,Brazil,women,2,5,7.0,4.0,40.0,33.0,32.0,0.4,10:44,62.5,115.5,"Mar. 27, 2021",2012
+193,193,Casey O'Neill,10,2,0,12,Women's Flyweight Division,Scotland,women,3,2,1.0,5.0,53.0,35.0,27.0,0.0,11:49,66.0,125.5,"Feb. 20, 2021",2012
+194,194,Chelsea Chandler,6,3,0,9,Women's Bantamweight Division,United States,women,2,1,2.0,3.0,45.0,60.0,34.0,0.0,12:19,68.5,141.0,"Oct. 1, 2022",2012
+195,195,Charles Oliveira,35,10,0,45,Lightweight Division,Brazil,men,10,21,0.0,4.0,55.0,40.0,35.0,0.46,07:38,70.0,155.6,"Aug. 1, 2010",2012
+196,196,Charles Johnson,17,7,0,24,Flyweight Division,United States,men,7,3,4.0,7.0,50.0,21.0,34.0,0.3,13:38,69.0,125.0,"Jul. 23, 2022",2012
+197,197,Montel Jackson,15,2,0,17,Bantamweight Division,United States,men,5,8,7.0,5.0,54.0,71.0,32.0,1.77,09:59,70.0,135.0,"Aug. 4, 2018",2012
+198,198,Dan Ige,18,9,0,27,Featherweight Division,United States,men,6,5,7.0,7.0,46.0,27.0,33.0,0.49,12:47,67.0,146.0,"Jul. 25, 2017",2012
+199,199,Ignacio Bahamondes,17,5,0,22,Lightweight Division,Chile,men,11,2,9.0,4.0,47.0,0.0,27.0,0.84,09:55,75.0,156.0,"Apr. 10, 2021",2012
+200,200,Michael Page,23,3,0,26,Welterweight Division,UK,men,13,3,13.0,7.0,62.0,20.0,,0.3,09:53,79.0,42.0,,2012
+201,201,Roman Kopylov,14,3,0,17,Middleweight Division,Russia,men,12,2,1.0,2.0,51.0,42.0,,0.88,11:21,75.0,41.0,,2012
+202,202,Anthony Smith,38,21,0,59,Light Heavyweight Division,United States,men,19,15,21.0,4.0,49.0,24.0,36.0,0.39,09:51,76.0,205.5,"Aug. 19, 2012",2012
+203,203,Kennedy Nzechukwu,14,5,0,19,Heavyweight Division,United States,men,10,4,0.0,3.0,47.0,45.0,32.0,0.45,08:57,77.0,236.5,"Aug. 22, 2017",2012
+204,204,Maycee Barber,14,2,0,16,Women's Flyweight Division,United States,women,6,6,2.0,5.0,53.0,44.0,26.0,0.0,12:10,65.0,125.0,"Nov. 10, 2018",2012
+205,205,Tecia Pennington,14,7,0,21,Women's Strawweight Division,United States,women,1,1,0.0,12.0,48.0,14.0,35.0,0.06,13:53,61.0,115.0,"Dec. 12, 2014",2012
+206,206,Mayra Bueno Silva,10,5,1,16,Women's Flyweight Division,Brazil,women,1,7,7.0,2.0,59.0,29.0,33.0,0.0,10:10,66.0,126.0,"Sep. 23, 2018",2012
+207,207,Joselyne Edwards,14,6,0,20,Women's Bantamweight Division,Panama,women,6,3,6.0,5.0,53.0,39.0,29.0,0.0,14:57,68.0,139.0,"Jan. 16, 2021",2012
